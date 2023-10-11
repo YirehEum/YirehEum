@@ -1,13 +1,10 @@
-## Hi I'm Yireh Eum 👋
-
+# Hi I'm Yireh Eum 👋
 ### Data Analysis
 
-<br/>
+
 ### Status
-<br/>
 ![YirehEum's github stats](https://github-readme-stats.vercel.app/api?username=YirehEum&show_icons=true)
-<br/>
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=YirehEum)](https://solved.ac/YirehEum)
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=dmadlfp)](https://solved.ac/dmadlfp)
 
 
 
